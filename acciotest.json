@@ -1,0 +1,4 @@
+{
+    "testRepo": "robot-emoji-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
